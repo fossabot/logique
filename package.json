@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.1"
+  },
+  "name": "logique",
+  "description": "A module under development",
+  "version": "3.6.4",
+  "funding": "https://github.com/penguenn/logique?sponsor=1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penguenn/logi.git"
+  },
+  "keywords": [
+    "npm",
+    "index",
+    "ms",
+    "module",
+    "start"
+  ],
+  "author": "penguenn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penguenn/logi/issues"
+  },
+  "homepage": "https://github.com/penguenn/logi#readme"
+}
